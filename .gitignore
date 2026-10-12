@@ -1,0 +1,24 @@
+# Obsidian temporary and local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Python artifacts
+__pycache__/
+.venv/
+venv/
