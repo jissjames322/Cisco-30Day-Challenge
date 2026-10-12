@@ -54,10 +54,7 @@ The goal is to strengthen practical knowledge of cybersecurity, network defense,
 
   
 
-> Update the status as you progress. Suggested statuses: `⬜ Not started`, `🟡 In progress`, and `✅ Completed`.
-
   
-
 ## Daily Workflow
 
   
