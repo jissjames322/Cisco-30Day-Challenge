@@ -434,3 +434,31 @@ Cyberwarfare, as its name suggests, is the use of technology to penetrate and at
 One example of a state-sponsored attack involved the Stuxnet malware that was designed not just to hijack targeted computers but to actually cause physical damage to equipment controlled by computers!
 
  **watch a short video on the case of Stuxnet and discover the impact this malware had on Iran’s nuclear enrichment plant.**
+
+- **Non-Trivial Distribution** : Spread via USB Sticks in non internet connectivity systems and then propagate by escalating privilege levels through zero day exploits.
+- **Sophistication** : windows, install its own drivers by using a legitimate certificate
+- **Modular Coding** : Peer to Peer, when they are in contact they will compare between themselves and make sure that they're both updated.
+- **Unique Targeting** : Using controllers to change bits of information
+- **Motive** : Targets infrastructure.
+
+### 1.5.2 The Purpose of Cyberwarfare
+
+The main reason for resorting to cyberwarfare is to gain advantage over adversaries, whether they are nations or competitors.
+
+
+**To gather compromised information and/or defense secrets**
+
+A nation or international organization can engage in cyberwarfare in order to steal defense secrets and gather information about technology that will help narrow the gaps in its industries and military capabilities.
+
+Furthermore, compromised sensitive data can give attackers leverage to blackmail personnel within a foreign government.
+
+**To impact another nation’s infrastructure**
+
+Besides industrial and military espionage, a nation can continuously invade another nation’s infrastructure in order to cause disruption and chaos.
+
+For example, a cyber attack could shut down the power grid of a major city. Consider the consequences if this were to happen; roads would be congested, the exchange of goods and services would be halted, patients would not be able to get the care they would need if an emergency occurred, access to the internet would be interrupted. By shutting down a power grid, a cyber attack could have a huge impact on the everyday life of ordinary citizens.
+
+  
+Cyberwarfare can destabilize a nation, disrupt its commerce, and cause its citizens to lose faith and confidence in their government without the attacker ever physically setting foot in the targeted country.
+
+Cyberwarfare is a very serious issue with potentially devastating consequences, and attacks are becoming more widespread. Now, more than ever, nations and governments need cybersecurity professionals to help protect their citizens and infrastructure. You’ve started your cybersecurity career at the right time!
