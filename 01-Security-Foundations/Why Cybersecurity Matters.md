@@ -338,3 +338,99 @@ A security breach is an incident that results in unauthorized access to data, ap
 
 But there are many ways to protect yourself and your organization. It’s important to be aware of common cyber threats and remain vigilant so that you don’t become the next victim.
 
+Given the very real threat to organizational data, it is critical that all organizations develop and implement a comprehensive cybersecurity plan to protect them from potential breaches. But who are they being protected from?
+
+
+# # 1.4 Cyber Attackers
+
+Attackers are individuals or groups who attempt to exploit vulnerability for personal or financial gain. As we’ve already seen, they are interested in **everything**, from credit cards to product designs!
+
+### 1.4.1 Types of Attackers
+
+Let’s look at some of the main types of cyber attackers who’ll try anything to get their hands on our information. They are often categorized as **white hat**, **gray hat** or **black hat** attackers.
+
+
+## Amateurs
+
+The term 'script kiddies' emerged in the 1990s and refers to amateur or inexperienced hackers who use existing tools or instructions found on the Internet to launch attacks. Some script kiddies are just curious, others are trying to demonstrate their skills and cause harm. While script kiddies may use basic tools, their attacks can still have devastating consequences.
+
+## Hackers
+
+This group of attackers break into computer systems or networks to gain access. Depending on the intent of their break in, they can be classified as white, gray or black hat hackers.
+
+- **White hat attackers** break into networks or computer systems to identify any weaknesses so that the security of a system or network can be improved. These break-ins are done with prior permission and any results are reported back to the owner.
+- **Gray hat attackers** may set out to find vulnerabilities in a system but they will only report their findings to the owners of a system if doing so coincides with their agenda. Or they might even publish details about the vulnerability on the internet so that other attackers can exploit it.
+- **Black hat attackers** take advantage of any vulnerability for illegal personal, financial or political gain.
+
+## Organized hackers
+
+These attackers include organizations of cyber criminals, hacktivists, terrorists and state-sponsored hackers. They are usually highly sophisticated and organized, and may even provide cybercrime as a service to other criminals.
+
+Hacktivists make political statements to create awareness about issues that are important to them.
+
+State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. They are usually highly trained and well-funded and their attacks are focused on specific goals that are beneficial to their government.
+
+## 1.4.2 What Color Is My Hat?
+
+Now that you know the different types of attackers and their motivations for doing what they do, can you identify what color of hat is worn by the attacker in each of the following scenarios? This is a tricky one but remember, you can earn valuable defender points if you answer correctly.
+
+
+- White hat attackers aim to discover security weaknesses so that they can be improved.
+- Black hat attackers take advantage of any vulnerabilities for illegal personal, financial or political gain.
+- Gray hat attackers are somewhere in between. While they may not have malicious intentions, they want to get something for their discovery.
+
+
+- After hacking into ATM systems remotely using a laptop, this attacker worked with the ATM manufacturers to resolve the identified security vulnerabilities. : G
+- This attacker transferred $10 million into their bank account using customer account and PIN credentials gathered from recordings. : black hat
+- This attacker’s job is to identify weaknesses in a company’s computer system. : white hat
+- This attacker used malware to compromise a company’s system and steal credit card information that was then sold to the highest bidder. : Black hat
+- While carrying out some research, this attacker stumbled across a security vulnerability on an organization's network that they are authorized to access. : W
+
+**You’ve got a really good understanding of the types of attackers out there and grabbed yourself some defender points. Make sure to check the icon in the top right hand corner of your screen to see how you are doing.**
+
+White hat attackers aim to discover security weaknesses so that they can be improved, whereas black hat attackers take advantage of any vulnerabilities for illegal personal, financial or political gain. Gray hat attackers are somewhere in between. While they may not have malicious intentions, they want to get something for their discovery.
+
+
+## 1.4.3 Internal and External Threats
+
+Cyber attacks can originate from within an organization as well as from outside of it.
+
+### Internal
+
+Employees, contract staff or trusted partners can accidentally or intentionally:
+
+- mishandle confidential data
+- facilitate outside attacks by connecting infected USB media into the organization's computer system.
+- Invite malware onto the organization's network by clicking on malicious emails or websites.
+- Threaten the operations of internal servers or network infrastructure devices.
+
+
+### External
+
+Amateurs or skilled attackers outside of the organization can:
+
+- exploit vulnerabilities in the network.
+- gain unauthorized access to computing devices
+- use social engineering to gain unauthorized access to organizational data.
+
+## 1.4.4 What Do You Think?
+
+Remember that phishing email you received earlier from one of your customers?
+
+An investigation into this email revealed that the user accounts and access privileges of a former employee were not fully removed from the IT systems on leaving the company. In fact, this former employee, who now works for a competitor, logged into @Apollo’s customer database only three days ago.
+
+Has an internal or external security threat occurred here?
+
+This ex-employee was able to launch an attack based on insider knowledge of the organization’s network. For this reason, internal threats have the potential to cause greater damage than external threats.
+
+The profile of a cyber attacker varies depending on their goals, motivations and capabilities. At the extreme, hackers can launch cyber attacks against nations and states, wreaking havoc on their computer systems and networks.
+
+# 1.5 Cyberwarfare
+
+Cyberwarfare, as its name suggests, is the use of technology to penetrate and attack another nation’s computer systems and networks in an effort to cause damage or disrupt services, such as shutting down a power grid.
+
+## 1.5.1 Sign of the Times (Stuxnet)
+
+One example of a state-sponsored attack involved the Stuxnet malware that was designed not just to hijack targeted computers but to actually cause physical damage to equipment controlled by computers!
+
+ **watch a short video on the case of Stuxnet and discover the impact this malware had on Iran’s nuclear enrichment plant.**
