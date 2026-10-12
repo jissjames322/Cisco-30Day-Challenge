@@ -458,7 +458,6 @@ Besides industrial and military espionage, a nation can continuously invade anot
 
 For example, a cyber attack could shut down the power grid of a major city. Consider the consequences if this were to happen; roads would be congested, the exchange of goods and services would be halted, patients would not be able to get the care they would need if an emergency occurred, access to the internet would be interrupted. By shutting down a power grid, a cyber attack could have a huge impact on the everyday life of ordinary citizens.
 
-  
 Cyberwarfare can destabilize a nation, disrupt its commerce, and cause its citizens to lose faith and confidence in their government without the attacker ever physically setting foot in the targeted country.
 
 Cyberwarfare is a very serious issue with potentially devastating consequences, and attacks are becoming more widespread. Now, more than ever, nations and governments need cybersecurity professionals to help protect their citizens and infrastructure. You’ve started your cybersecurity career at the right time!
