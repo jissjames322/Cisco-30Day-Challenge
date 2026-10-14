@@ -503,3 +503,278 @@ Some versions of ransomware can take advantage of specific system vulnerabilitie
 ### Scareware
 
 This is a type of malware that uses 'scare’ tactics to trick you into taking a specific action. Scareware mainly consists of operating system style windows that pop up to warn you that your system is at risk and needs to run a specific program for it to return to normal operation.
+
+If you agree to execute the specific program, your system will become infected with malware.
+
+# Rootkit
+
+This malware is designed to modify the operating system to create a backdoor, which attackers can then use to access your computer remotely. Most rootkits take advantage of software vulnerabilities to gain access to resources that normally shouldn’t be accessible (privilege escalation) and modify system files.
+
+Rootkits can also modify system forensics and monitoring tools, making them very hard to detect. In most cases, a computer infected by a rootkit has to be wiped and any required software reinstalled.
+
+### Virus
+
+A virus is a type of computer program that, when executed, replicates and attaches itself to other executable files, such as a document, by inserting its own code. Most viruses require end-user interaction to initiate activation and can be written to act on a specific date or time.
+
+Viruses can be relatively harmless, such as those that display a funny image. Or they can be destructive, such as those that modify or delete data.
+
+
+Viruses can also be programmed to mutate in order to avoid detection. Most viruses are spread by USB drives, optical disks, network shares or email.
+
+### Trojan Horse
+
+This malware carries out malicious operations by masking its true intent. It might appear legitimate but is, in fact, very dangerous. Trojans exploit your user privileges and are most often found in image files, audio files or games.
+
+Unlike viruses, Trojans do not self-replicate but act as a decoy to sneak malicious software past unsuspecting users.
+
+### Worms
+
+This is a type of malware that replicates itself in order to spread from one computer to another. Unlike a virus, which requires a host program to run, worms can run by themselves. Other than the initial infection of the host, they do not require user participation and can spread very quickly over the network.
+
+Worms share similar patterns: They exploit system vulnerabilities, they have a way to propagate themselves, and they all contain malicious code (payload) to cause damage to computer systems or networks.
+
+Worms are responsible for some of the most devastating attacks on the Internet. In 2001, the Code Red worm had infected over 300,000 servers in just 19 hours.
+
+
+# 2.1.2 Symptoms of Malware
+
+So now you know about the different kinds of malware. But what do you think their symptoms might be?
+
+
+Regardless of the type of malware a system has been infected with, there are some common symptoms to look out for. These include:
+
+- an  increase in central processing unit (CPU) usage, which slows down your device.
+- Your computer freezing or crashing often.
+- a decrease in your web browsing speed
+- unexplainable problems with your network connections
+- modified or deleted files
+- the presence of unknown files, programs or desktop icons
+- unknown processes running
+- program turning off or reconfiguration themselves.
+- emails being sent without your knowledge or consent
+
+2.1.3 What Do You Think?
+
+- Malware designed to track your online activity and capture your data : **Spyware**
+- Software that automatically delivers advertisements : **Adware**
+- Malware that holds a computer system captive until a payment is made to the attacker : **Ransomware**
+- Malicious code that attaches to legitimate programs and usually spreads by USB drives, optical media, network shares or email : **Virus**
+- Malicious code that replicates itself independently by exploiting vulnerabilities in networks : **Worms**
+
+There are many different malware types that pose a threat to your organization but how can cybercriminals get into your networks and systems in the first place? They have many means at their disposal.
+
+# 2.2 Methods of Infiltration
+
+## 2.2.1 Social Engineering
+
+Social engineering is the manipulation of people into performing actions or divulging confidential information. Social engineers often rely on people’s willingness to be helpful, but they also prey on their weaknesses. For example, an attacker will call an authorized employee with an urgent problem that requires immediate network access and appeal to the employee’s vanity or greed or invoke authority by using name-dropping techniques in order to gain this access.
+
+### **Pretexting**
+
+This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
+
+For example, pretending to need a person’s personal or financial data in order to confirm their identity.
+
+### **Tailgating**
+
+This is when an attacker quickly follows an authorized person into a secure, physical location.
+
+### **Something for something (quid pro quo)**
+
+This is when an attacker requests personal information from a person in exchange for something, like a free gift.
+
+
+# 2.2.2 Denial-of-Service
+
+Denial-of-Service (DoS) attacks are a type of network attack that is relatively simple to carry out, even by an unskilled attacker. A DoS attack results in some sort of interruption of network service to users, devices or applications.
+
+### Overwhelming quantity of traffic
+
+This is when a network , host or application is sent an enormous amount of data at a rate which it cannot handle. This causes a slowdown in transmission or response, or the device or service to crash.
+
+### Malicious formatted packets
+
+A packet is a collection of data that flows between a source and a receiver computer or application over a network, such as the internet. When a maliciously formatted packet is sent, the receiver will be unable to handle it.
+
+For example , if an attacker forwards packets containing errors or improperly formatted packets that cannot be identified by an application this will cause the receiving device to run slowly or crash.
+
+DoS attacks are considered a major risk because they can easily interrupt communication and cause significant loss of time and money.
+
+
+# 2.2.3 Distributed DoS
+
+A Distributed DoS (DDoS) attack is similar to a DoS attack but originates from multiple, coordinated sources. For example:
+
+- An attacker builds a network (botnet) of infected hosts called zombies, which are controlled by handler systems.
+- The zombie computers will constantly scan and infect more hosts, creating more and more zombies.
+- When ready, the hacker will instruct the handler systems to make the botnet of zombies carry out a DDoS attack.
+![[Pasted image 20261014093206.png]]
+
+# 2.2.4 Botnet
+
+A bot computer is typically infected by visiting an unsafe website or opening an infected email attachment or infected media file. A botnet is a group of bots, connected through the Internet, that can be controlled by a malicious individual or group. It can have tens of thousands, or even hundreds of thousands, of bots that are typically controlled through a command and control server.
+
+These bots can be activated to distribute malware, launch DDoS attacks, distribute spam email, or execute brute-force password attacks. Cybercriminals will often rent out botnets to third parties for nefarious purposes.
+
+Many organizations. like Cisco, force network activities through botnet traffic filters to identify any botnet locations.
+
+
+![[Pasted image 20261014093330.png]]
+
+
+1. Infected bots try to communicate with a  command and control host on the internet
+2. The Cisco Firewall botnet filter is a feature that detects traffic coming from devices infected with the malicious botnet code.
+3. The cloud-based Cisco Security Intelligence Operations (SIO) service pushes down updated filters to the firewall that match traffic from new known botnets.
+4. Alerts go out to Cisco's internal security team to notify them about the infected devices that are generating malicious traffic so they can prevent , mitigate and remedy these.
+
+# 2.2.5 On-Path Attacks
+
+
+On-path attackers intercept or modify communications between two devices, such as a web browser and a web server, either to collect information from or to impersonate one of the devices.
+
+This type of attack is also referred to as a **man-in-the-middle** or **man-in-the-mobile** attack.
+
+## MAN-IN-THE-MIDDLE (MITM)
+
+A MitM attack happens when a cybercriminal takes control of a device without the user's knowledge. With this level of access, an attacker can intercept and capture user information before it is sent to its intended destination .These types of attacks are often used to steal financial information
+
+There are many types of malware that possess MitM attack capabilities
+
+## MAN-IN-THE-MOBILE (MITMO)
+
+A variation of man-in-the-middle, MitMo is a type of attack used to take control over a user's mobile device. When infected , the mobile device is instructed to exfiltrate user-sensitive information and send it to the attackers.
+Zeus is one example of a malware package with MitMo capabilites . It allows attackers to quietly capture two step verification SMS messages that are sent to users.
+
+
+There are a lot of ways for cybercriminals to infiltrate your systems and networks, but it’s important that you know what these are.
+
+
+# 2.2.6 SEO Poisoning
+
+You’ve probably heard of search engine optimization or SEO which, in simple terms, is about improving an organization’s website so that it gains greater visibility in search engine results.
+
+
+Search engine such as Google work by presenting a list of web pages to users based on their search query. These web pages are ranked according to the relevancy of their content.
+
+While many legitimate companies specialize in optimizing websites to better position them, attackers take advantage of popular search terms and use SEO to push malicious sites higher up the ranks of search results. This technique is called SEO poisoning.
+
+The most common goal of SEO poisoning is to increase traffic to malicious sites that may host malware or attempt social engineering.
+
+
+# 2.2.7 Wi-Fi Password Cracking
+
+
+You’re enjoying your lunch in the canteen when a colleague approaches you. They seem distressed.
+
+They explain that they can’t seem to connect to the public Wi-Fi on their phone and ask if you have the private Wi-Fi password to hand so that they can check that their phone is working.
+
+How would you respond?
+
+**That’s right!**
+
+This colleague could be carrying out a social engineering attack, manipulating you to provide the password used to protect the organization’s private wireless network. You can never be too careful – and, for answering correctly, you’ve earned some defender points. Well done!
+
+Hackers have other techniques up their sleeves. Some use **brute-force attacks**, testing possible password combinations to try and guess a password. Others are able to identify unencrypted passwords by listening in and capturing packets sent on the network. This is called **network sniffing**. If the password is encrypted, they may still be able to reveal it using a password cracking tool.
+
+
+# 2.2.8 Password Attacks
+
+Entering a username and password is one of the most popular forms of authenticating to a web site. Therefore, uncovering your password is an easy way for cybercriminals to gain access to your most valuable information.
+
+### Password spraying
+
+This technique attempts to gain access to a system by ‘spraying’ a few commonly used passwords across a large number of accounts. For example, a cybercriminal uses 'Password123' with many usernames before trying again with a second commonly-used password, such as ‘qwerty.’
+
+This technique allows the perpetrator to remain undetected as they avoid frequent account lockouts.
+
+### Dictionary attacks
+
+A hacker systematically tries every word in a dictionary or a list of commonly used words as a password in an attempt to break into a password-protected account.
+
+### Brute-force attacks
+
+The simplest and most commonly used way of gaining access to a password-protected site, brute-force attacks see an attacker using all possible combinations of letters, numbers and symbols in the password space until they get it right.
+
+### Rainbow attacks
+
+Passwords in a computer system are not stored as plain text, but as hashed values (numerical values that uniquely identify data). A rainbow table is a large dictionary of precomputed hashes and the passwords from which they were calculated.
+
+Unlike a brute-force attack that has to calculate each hash, a rainbow attack compares the hash of a password with those stored in the rainbow table. When an attacker finds a match, they identify the password used to create the hash.
+
+
+### Traffic interception
+
+Plain text or unencrypted passwords can be easily read by other humans and machines by intercepting communications.
+
+If you store a password in clear, readable text, anyone who has access to your account or device, whether authorized or unauthorized, can read it.
+
+
+# 2.2.9 Cracking Times
+
+It looks as if the hackers are trying everything to crack @Apollo’s private Wi-Fi password. We have to make sure that the password is strong enough to withstand their attack!
+
+**That’s right! You’ve secured the organization’s private Wi-Fi password and earned some more defender points — great work!**
+
+Carrying out brute-force attacks involves the attacker trying several possible combinations in an attempt to guess the password. These attacks usually involve a word-list file — a text file containing a list of words from a dictionary. A program such as **Ophcrack, L0phtCrack, THC Hydra, RainbowCrack or Medusa** will then try each word and common combinations until it finds a match.
+
+Because brute-force attacks take time, complex passwords take much longer to guess.
+
+# 2.2.10 Advanced Persistent Threats
+
+Attackers also achieve infiltration through advanced persistent threats (APTs) — a multi-phase, long term, stealthy and advanced operation against a specific target. For these reasons, an individual attacker often lacks the skill set, resources or persistence to perform APTs.
+
+Due to the complexity and the skill level required to carry out such an attack, an APT is usually well-funded and typically targets organizations or nations for business or political reasons.
+
+Its main purpose is to deploy customized malware on one or more of the target’s systems and remain there undetected.
+
+# 2.2.11 It’s Over to You...
+
+Phew! That’s a lot to take in and hackers certainly have a lot of tools at their disposal. It is important that you know what these are so that you can protect yourself and @Apollo.
+
+You think back to some of the suspicious activities that you’ve seen recently in the organization. Based on what you have learned in this topic, what type of attack could each of these scenarios be? Take your time with this one. You have a chance to earn some much-needed defender points.
+
+- On your way into the office, a person whom you have never seen before asks you to hold the door — they forgot their access card : **Social Engineering**
+- You have started getting an error message when accessing your computer: ‘Your connection was interrupted. A network change was detected.’ : **Dos**
+- You searched for @Apollo’s website on Google, but when you clicked on the top result, you were redirected to a page advertising antivirus software : **SEO Poisoning**
+
+**That’s right!**
+
+You were able to identify the potential attacks that could be happening right under your nose. Remember, it’s important to stay alert and be mindful of all of the ways that attackers are trying to catch you out. Bear in mind that many modern attacks involve a blend of these methods, with cybercriminals often using multiple techniques to infiltrate and attack a system.
+
+In order to prevent cybercriminals from launching a cyber attack, organizations need to be constantly checking for security vulnerabilities in their systems and networks.
+
+
+# 2.3 Security Vulnerability and Exploits
+
+Before we get into the details, let’s start by outlining some key terms that you need to know.
+
+_Security vulnerabilities_ are any kind of software or hardware defect. A program written to take advantage of a known vulnerability is referred to as an _exploit_. A cybercriminal can use an exploit against a vulnerability to carry out an _attack_, the goal of which is to gain access to a system, the data it hosts or a specific resource.
+
+## 2.3.1 Hardware Vulnerabilities
+
+Hardware vulnerabilities are most often the result of hardware design flaws. For example, the type of memory called RAM basically consists of lots of capacitors (a component which can hold an electrical charge) installed very close to one another. However, it was soon discovered that, due to their close proximity, changes applied to one of these capacitors could influence neighbor capacitors. Based on this design flaw, an exploit called **Rowhammer** was created. By repeatedly accessing (hammering) a row of memory, the **Rowhammer** exploit triggers electrical interferences that eventually corrupt the data stored inside the RAM.
+
+### Meltdown and Spectre
+
+Google security researchers discovered **Meltdown and Spectre**, two hardware vulnerabilities that affect almost all central processing units (CPUs) released since 1995 within desktops, laptops, servers, smartphones, smart devices and cloud services.
+
+Attackers exploiting these vulnerabilities can read all memory from a given system (Meltdown), as well as data handled by other applications (Spectre). The Meltdown and Spectre vulnerability exploitations are referred to as **side-channel attacks** (**information is gained from the implementation of a computer system)**. They have the ability to compromise large amounts of memory data because the attacks can be run multiple times on a system with very little possibility of a crash or other error.
+
+Hardware vulnerabilities are specific to device models and are not generally exploited through random compromising attempts. While hardware exploits are more common in highly targeted attacks, traditional malware protection and good physical security are sufficient protection for the everyday user.
+
+## 2.3.2 Software Vulnerabilities
+
+Software vulnerabilities are usually introduced by errors in the operating system or application code.
+
+**SYNful Knock vulnerability discovered in Cisco Internetwork Operating System (IOS) in 2015.**
+
+The **SYNful Knock** vulnerability allowed attackers to gain control of **enterprise-grade routers,** such as the **legacy Cisco ISR routers** from which the could **monitor all network communication and infect other network devices.**
+
+This vulnerability was introduced into the system when an **altered IOS version** was installed n the routers. To avoid this , **you should always verify the integrity of the downloaded IOS image and limit the physical access of such equipment to authorized personnel only.**
+
+
+# 2.3.3 Categorizing Software Vulnerabilities
+
+Most software security vulnerabilities fall into several main categories.
+
+
