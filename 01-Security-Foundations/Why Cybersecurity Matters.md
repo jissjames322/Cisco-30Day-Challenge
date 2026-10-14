@@ -834,3 +834,6 @@ You need to be constantly aware of security vulnerabilities around you so that y
 
 # 2.4 The Cybersecurity **Landscape**
 
+## 2.4.1 Cryptocurrency
+
+Cryptocurrency is digital money that can be used to buy goods and services, using strong encryption techniques to secure online transactions. Banks, governments and even companies like Microsoft and AT&T are very aware of its importance and are jumping on the cryptocurrency bandwagon!
