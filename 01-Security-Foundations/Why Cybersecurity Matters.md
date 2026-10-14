@@ -920,4 +920,6 @@ To mitigate this situation , you should :
 - Use a wired connection for any devices with a wired **network interface card (NIC)**
 - use a trusted virtual private network (VPN) service when accessing a wireless network.
 
+[KRACKS](https://www.krackattacks.com/)
+
 
