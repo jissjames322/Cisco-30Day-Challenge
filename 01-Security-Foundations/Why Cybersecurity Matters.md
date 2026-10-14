@@ -810,3 +810,27 @@ The goal of software updates is to stay current and avoid exploitation of vulner
 Despite the fact that organizations put a lot of effort into finding and patching software vulnerabilities, new vulnerabilities are discovered regularly. That’s why some organizations use third party security researchers who specialize in finding vulnerabilities in software, or actually invest in their own penetration testing teams dedicated to search, find and patch software vulnerabilities before they can get exploited.
 
 **Google’s Project Zero** is a great example of this practice. After discovering a number of vulnerabilities in various software used by end users, Google formed a permanent team dedicated to finding software vulnerabilities. You can find out more about Google’s security research [here](https://bugs.chromium.org/p/project-zero/issues/list?can=1&redir=1).
+
+
+### 2.3.5 What Do You Think?
+
+This has made you think about some of the vulnerabilities that may exist at @Apollo. After some investigation you’ve noted some potential issues.
+
+Can you identify what category each of these vulnerabilities falls into? You have a chance to earn some defender points here and further safeguard @Apollo, so take your time.
+
+- On starting at @Apollo, your network password was emailed to you in plain text and you were not prompted to change it : **Weakness in security practice.**
+- Past employees still have access to @Apollo’s customer database : **Access control  problem**
+- New users can log into their @Apollo account, even if they have signed up with an incorrectly formatted email address : **Non-validated input**
+
+**That’s right! Great work!**
+
+You’ve correctly identified the potential security issues and have taken a step closer to safeguarding @Apollo from attack. Remember:
+
+- Emailing sensitive information such as passwords in plain text is extremely risky and is a weakness in security practice. This information should at the very least be encrypted.
+- Past employees should not have access to customer information when leaving a company. This is a serious access control problem.
+- New users need to be validated before anything else can be done with their data. Using an incorrectly formatted email address to log on is a non-validated input error.
+
+You need to be constantly aware of security vulnerabilities around you so that you can respond accordingly. But remember, the cybersecurity landscape is continually evolving. For example, cryptojacking — a type of cyber attack used to mine cryptocurrency — is on the rise.
+
+# 2.4 The Cybersecurity **Landscape**
+
