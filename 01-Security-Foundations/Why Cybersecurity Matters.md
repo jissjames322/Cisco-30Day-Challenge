@@ -837,3 +837,70 @@ You need to be constantly aware of security vulnerabilities around you so that y
 ## 2.4.1 Cryptocurrency
 
 Cryptocurrency is digital money that can be used to buy goods and services, using strong encryption techniques to secure online transactions. Banks, governments and even companies like Microsoft and AT&T are very aware of its importance and are jumping on the cryptocurrency bandwagon!
+
+Cryptocurrency owners keep their money in encrypted, virtual ‘wallets.’ When a transaction takes place between the owners of two digital wallets, the details are recorded in a **decentralized, electronic ledger or blockchain system**. This means it is carried out with a degree of anonymity and is self-managed, with no interference from third parties such as central banks or government entities.
+
+Approximately every ten minutes, special computers collect data about the latest cryptocurrency transactions, turning them into mathematical puzzles to maintain confidentiality.
+
+These transactions are then verified through a technical and highly complex process known as ‘**mining**.’ This step typically involves an army of ‘miners’ working on **high-end PCs to solve mathematical puzzles and authenticate transactions.**
+
+Once verified, the ledger is updated and electronically copied and disseminated worldwide to anyone belonging to the blockchain network, effectively completing a transaction.
+
+## 2.4.2 Cryptojacking
+
+Cryptojacking is an emerging threat that hides on a user’s computer, mobile phone, tablet, laptop or server, using that machine’s resources to 'mine’ cryptocurrencies without the user's consent or knowledge.
+
+Many victims of cryptojacking didn’t even know they’d been hacked until it was too late!
+
+
+# 3. Protecting your data and privacy
+
+# 3.1 Protecting your devices and network
+
+You’ve probably heard of the term ‘online security.’ It’s all about taking the necessary steps to prevent your personal information from falling into the wrong hands.
+
+### 3.1.1 What Do You Think?
+
+You’ve just been issued with a new laptop at @Apollo and are getting ready to set it up. What steps would you take to secure it before use?
+
+**What did you come up with?**
+
+To make your device safe and secure, you should:
+
+- turn the firewall on
+- install antivirus and antispyware
+- manage your operating system and browser
+- set up password protection.
+
+### 3.1.2 Protecting Your Computing Devices
+
+Your computing devices are the portal to your online life, storing a lot of your personal data. Therefore, it’s important to protect the security of your devices.
+
+#### Turn the firewall on
+
+You should use at least one type of firewall (either a software firewall or a hardware firewall on a router) to protect your device from unauthorized access. The firewall should be turned on and constantly updated to prevent hackers from accessing your personal or organization data.
+
+You can click [here](http://windows.microsoft.com/en-us/windows-10/turn-windows-firewall-on-or-off) to learn how to turn on the firewall in Windows 10, or click [here](https://support.apple.com/en-us/HT201642) for Mac OS X devices.
+
+
+#### Install antivirus and antispyware
+
+Malicious software, such as viruses and spyware, are designed to gain unauthorized access to your computer and your data. Once installed, viruses can destroy your data and slow down your computer. They can even take over your computer and broadcast spam emails using your account. Spyware can monitor your online activities, collect your personal information or produce unwanted pop-up ads on your web browser while you are online.
+
+To prevent this, you should only ever download software from trusted websites. However, you should always use antivirus software to provide another layer of protection. This software, which often includes antispyware, is designed to scan your computer and incoming email for viruses and delete them. Keeping your software up to date will protect your computer from any new malicious software that emerges.
+
+#### Manage your operating system and browser
+
+Hackers are always trying to take advantage of vulnerabilities that may exist in your operating system (such as Microsoft Windows or macOS) or web browser (such as Google Chrome or Apple Safari).
+
+Therefore, to protect your computer and your data, you should set the security settings on your computer and browser to medium level or higher. You should also regularly update your computer’s operating system, including your web browser, and download and install the latest software patches and security updates from the vendors.
+
+#### Set up password protection
+
+All of your computing devices, including PCs, laptops, tablets and smartphones, should be password protected to prevent unauthorized access. Any stored information, especially sensitive or confidential data, should be encrypted. You should only store necessary information on your mobile device, in case it is stolen or lost.
+
+Remember, if any one of your devices is compromised, the criminals may be able to access all of your data through your cloud storage service provider, such as iCloud or Google Drive.
+
+IoT devices pose an even greater risk than your other computing devices. While desktop, laptop and mobile platforms receive frequent software updates, most IoT devices have their original software. If vulnerabilities are found in the software, the IoT device is likely to be vulnerable. And to make the problem worse, IoT devices require Internet access, most often relying on your local network. The result is that when IoT devices are compromised, **they allow hackers access to your local network and data. The best way to protect yourself from this scenario is to set up any IoT devices on an isolated network.**
+
+Check out [Shodan](https://www.shodan.io/), a web-based IoT device scanner that helps you identify any vulnerable devices on the Internet.
