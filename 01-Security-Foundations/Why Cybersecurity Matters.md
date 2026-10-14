@@ -461,3 +461,45 @@ For example, a cyber attack could shut down the power grid of a major city. Cons
 Cyberwarfare can destabilize a nation, disrupt its commerce, and cause its citizens to lose faith and confidence in their government without the attacker ever physically setting foot in the targeted country.
 
 Cyberwarfare is a very serious issue with potentially devastating consequences, and attacks are becoming more widespread. Now, more than ever, nations and governments need cybersecurity professionals to help protect their citizens and infrastructure. You’ve started your cybersecurity career at the right time!
+
+
+# 2.1 Analyzing a Cyber Attack
+
+Different ways hackers get into an organization
+
+
+# 2.1.1 Types of Malware
+
+Cybercriminals use many different types of malicious software, or malware, to carry out their activities. Malware is any code that can be used to steal data, bypass access controls, or cause harm to or compromise a system. Knowing what the different types are and how they spread is key to containing and removing them.
+
+### Spyware
+
+Designed to track and spy on you, spyware monitors your online activity and can log every key you press on your keyboard, as well as capture almost any of your data, including sensitive personal information such as your online banking details. Spyware does this by modifying the security settings on your devices.
+
+It often bundles itself with legitimate software or Trojan horses.
+
+
+### Adware
+
+Adware is often installed with some versions of software and is designed to automatically deliver advertisements to a user, most often on a web browser. You know it when you see it! It’s hard to ignore when you’re faced with constant pop-up ads on your screen.
+
+It is common for adware to come with spyware.
+
+
+### Backdoor
+
+This type of malware is used to gain unauthorized access by bypassing the normal authentication procedures to access a system. As a result, hackers can gain remote access to resources within an application and issue remote system commands.
+
+A backdoor works in the background and is difficult to detect.
+
+### Ransomware
+
+
+This malware is designed to hold a computer system or the data it contains captive until a payment is made. Ransomware usually works by encrypting your data so that you can’t access it.
+
+Some versions of ransomware can take advantage of specific system vulnerabilities to lock it down. Ransomware is often spread through phishing emails that encourage you to download a malicious attachment or through a software vulnerability.
+
+
+### Scareware
+
+This is a type of malware that uses 'scare’ tactics to trick you into taking a specific action. Scareware mainly consists of operating system style windows that pop up to warn you that your system is at risk and needs to run a specific program for it to return to normal operation.
