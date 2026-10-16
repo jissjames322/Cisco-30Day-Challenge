@@ -1374,4 +1374,34 @@ This module is almost complete. But before you move on, let’s check your knowl
 
 2. Why do IoT devices pose a greater security risk than other computing devices on a network?
 
-- 
+
+3. What should you do in order to make sure that people you live with do not have access to your secure data?
+ 
+ - Password Protection
+
+4. Which of the following is an example of 2 factor authentication?
+
+- Your finger print and your password
+
+5. You are looking to print photos that you have saved on a cloud storage account using a third-party online printing service. After successfully logging into the cloud account, you are automatically given access to the third-party online printing service. What allowed this automatic authentication to occur?
+
+- Same password
+
+6. How can you keep your personal browsing history hidden from other users on a shared computer?
+
+- Private mode
+
+7. Which  of the following passwords would most likely take the longest for an attacker to guess or break?
+
+- sdadas
+
+8. You are having difficulty remembering passwords for all of your online accounts, what should you do?
+
+- Saved the passwords in a centralized password manger program
+
+9. What is the best method to prevent Bluetooth from being exploited?
+
+- Always disable Bluetooth when its not being used
+
+10. Which  configuration on a wireless router is not considered to be adequate security for a wireless network?
+
