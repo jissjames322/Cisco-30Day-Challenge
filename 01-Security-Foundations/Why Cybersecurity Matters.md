@@ -1405,3 +1405,17 @@ This module is almost complete. But before you move on, let’s check your knowl
 
 10. Which  configuration on a wireless router is not considered to be adequate security for a wireless network?
 
+11. Which technology removes direct equipment and maintenance costs from the user for data backups?
+
+12. what is the only way of ensuring that deleted files on your computer are irrecoverable?
+
+- Physically destroying computer's hard drive.
+
+
+# 4. Protecting the Organization
+
+## 4.1 Cybersecurity Devices and Technologies
+
+### 4.1.1 Security Appliances
+
+
