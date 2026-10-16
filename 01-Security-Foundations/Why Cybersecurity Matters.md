@@ -1368,5 +1368,10 @@ This module is almost complete. But before you move on, let’s check your knowl
 
 ----
 
-1.Which type of technology can prevent malicious software from monitoring user activities , collecting personel information and producing unwanted pop-up ads on a user computer?
+1. Which type of technology can prevent malicious software from monitoring user activities , collecting personel information and producing unwanted pop-up ads on a user computer?
 
+- **Spyware**
+
+2. Why do IoT devices pose a greater security risk than other computing devices on a network?
+
+- 
