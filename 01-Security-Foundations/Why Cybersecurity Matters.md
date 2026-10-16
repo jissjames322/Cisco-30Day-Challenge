@@ -1078,3 +1078,39 @@ Have you ever had to delete data or get rid of a hard drive? If so, did you take
  **what you should do to ensure you delete your files securely and permanently.**
 
 - To erase data so that it is no longer recoverable , it must be overwritten with ones and zeroes multiple times, using tools specifically designed to do just that. **SDelete** from Microsoft claims to have the ability to remove sensitive files completely .**Shred** for Linux and **Secure Empty Trash** for Mac OS X claim to provide a similar service.
+
+
+#### Deleting a physical disk or zeroing out
+
+- list out the disk drives
+
+```
+wmic diskdrive list brief
+```
+
+Delete!
+
+```shell
+sdelete -z 1
+```
+
+if it has a **volume** delete it using dskmgr (**Disk Managment**).
+
+or
+
+```shell
+diskpart
+
+DISKPART > list volume
+
+DISKPART > select volume 3 
+
+DISKPART > delete volume
+```
+
+delete again
+
+```shell
+sdelete -z 1
+```
+
