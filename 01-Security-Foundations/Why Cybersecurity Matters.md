@@ -1418,4 +1418,4 @@ This module is almost complete. But before you move on, let’s check your knowl
 
 ### 4.1.1 Security Appliances
 
-
+There is no single security appliance or piece of technology that will solve all the network security needs in an organization. You must consider what tools will be most effective as part of your security system.
