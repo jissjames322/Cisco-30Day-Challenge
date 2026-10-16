@@ -1254,3 +1254,13 @@ The more information you share online, the easier it is for someone to create a 
 
 A simple forged or spoofed email can lead to a massive **data breach and perhaps cause irreversible damage to your reputation.**
 
+**Talos the future of Ransomware!**
+
+Most ransomware attacks start of with a spam campaign they target the users of an organization and sends them phishing links or spam mail for them to click and download the payload, they will keep a persistent approach , they will likely pawn a low priveleged user account and then they will escalate that account to  a higher level account like a root account or NT authority account, They will try to hide themselves in an environment and when the right time comes they attack. 
+
+If they can get into any IOT devices then they can easily live there and can leverage a **LOLbin**
+
+**Living off the Land Binaries are windows binaries that are built in** adverseries use these to quietly move around in a network. then their on your **DC** .
+
+**If you don't pay us , we will release it publicly**
+
