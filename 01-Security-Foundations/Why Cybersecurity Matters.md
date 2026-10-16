@@ -1264,3 +1264,57 @@ If they can get into any IOT devices then they can easily live there and can lev
 
 **If you don't pay us , we will release it publicly**
 
+The Internet is a great tool for not only accessing information quickly and easily but also for communicating with friends, family and colleagues. But did you know that anyone with physical access to your device or router can view what websites you’ve visited? And that every time you send an email, it is readable by anyone who has access to the digital chain between you and your recipient?
+
+So, what can you do?
+
+### 3.4.5 Email and Web Browser Privacy
+
+These problems can be minimized by enabling the **in-private browsing mode** on your web browser. Many of the most commonly used web browsers have their own name for private browser mode:
+
+- **Microsoft Internet Explorer**: InPrivate
+    
+- **Google Chrome**: Incognito
+    
+- **Mozilla Firefox**: Private tab or private window
+    
+- **Safari**: Private browsing
+    
+
+**how private mode works.**
+
+
+When private mode is enabled , cookies - files saved to your device to indicate that websites you've visited -  are disabled. Therefore, any temporary internet files are removed and your browsing history is deleted when you close the window or program, This may help to prevent others from gathering information about your online activities and trying to entice you to buy something with targeted ads.
+
+Even with private browsing enabled and cookies disabled, companies are constantly developing new ways of fingerprinting users in order to track their online behavior. For example, some intermediary devices, like routers, can gather information about a user's web surfing history.
+
+Ultimately, it is **your** responsibility to safeguard your data, your identity and your computing devices. So, the next time you go to send an email or browse the Internet, why not check to make sure you’re following all the guidelines outlined in this module? Just a few simple precautions now could save you from having to deal with problems later.
+
+Let's see if you can recognize risky online behavior.
+
+
+# 3.5 Discover Your Own Risky Online Behavior
+
+## 3.5.1 Scenario 1
+
+Do you know what information is safe to share on social media sites?
+
+It’s surprising what people post on social media without thinking! Which of the following do you think poses a risk if posted on social media?
+
+**That’s right!**
+
+Photos showing bank details or valuable goods and vacation information always put you at risk, and especially when you’ve previously given clues about where you live, or where you are going to visit. Always stop and think about what you are about to post — would you tell it to a complete stranger?!
+
+
+## 3.5.2 Scenario 2
+
+
+When creating a new account in an online service, what password do you use? Is it secure?
+
+In your own words, describe what a password manager application is, how they work and why they are beneficial. If you have used a password manager before, outline a few details and share your experience.
+
+**Password manager applications can protect passwords by saving them in a secure encrypted form. They enable random passwords to be generated and managed easily, averting the need for users to have the same password for multiple accounts, which presents a security risk.**
+
+## 3.5.3 Scenario 3
+
+Connecting to an open Wi-Fi hotspot can make your system and data vulnerable to an attack.
