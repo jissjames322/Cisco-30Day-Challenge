@@ -1448,3 +1448,100 @@ These systems use signatures or behavioral analysis of applications to identify 
 
 Other security devices include web and email security appliances, decryption devices, client access control servers and security management systems.
 
+### 4.1.2 Which Is It?
+
+That’s interesting! You wonder what security system is being implemented at @Apollo.
+
+You ask the Chief Technology Officer (CTO), who explains that the following security appliances are in place. Can you identify which category each of these falls into? You have a chance to earn some defender points, so choose your answers carefully.
+
+
+1. Cisco’s ISR 4000 provides routing, filtering and encryption in a single platform : **Routing**
+2. Cisco’s Firepower 4100 Series shows what’s happening on the network so that you can act faster in the face of a cyber attack : **Firewall**
+3. Cisco’s AnyConnect Secure Mobility Client empowers remote workers with highly secure access to @Αpollo's network from any device, at any time, in any location : **VPN**
+4. Cisco’s AMP provides next-generation endpoint protection, scanning and constantly monitoring files for malicious behavior : **Antimalware**
+
+
+**Well done, that was tricky!**
+
+But you managed to correctly identify the security appliances in place and have ensured the safety of @Apollo from cyber attack… for now!
+
+In summary, the security appliances in place are:
+
+- **Cisco Integrated Services Router (ISR) 4000**. These routers have many capabilities, including traffic filtering, the ability to run an intrusion prevention system (IPS), encryption and VPN capabilities for secure encrypted tunneling.
+    
+- **Cisco’s Firepower 4100 Series** is a next generation firewall that has all the capabilities of an ISR router, as well as advanced network management and analytics. It can help you to see what’s happening on the network so that you can detect attacks earlier.
+    
+- **Cisco’s AnyConnect Secure Mobility Client** is a VPN system that lets remote workers use a secure encrypted tunnel from their mobile computer to securely connect back to the organization’s network. All Cisco security appliances are equipped with a VPN server and client technology, designed for secure encrypted tunneling.
+    
+- **Cisco’s Advanced Malware Protection (AMP)** is installed in next generation Cisco routers, firewalls, IPS devices and web and email security appliances. It can also be installed as software in host computers.
+
+
+## 4.1.3 Firewalls
+
+In computer networking, **a firewall is designed to control or filter which communications are allowed in and which are allowed out of a device or network.** **A firewall can be installed on a single computer with the purpose of protecting that one computer (host-based firewall) or it can be a standalone network device that protects an entire network of computers and all of the host devices on that network (network-based firewall).**
+
+As computer and network attacks have become more sophisticated, new types of firewalls have been developed, which serve different purposes.
+
+**The common firewall types.**
+
+#### Network layer firewall
+
+This filters communications based on source and destination IP addresses.
+
+#### Transport layer firewall
+
+Filters communications based on source and destination data ports, as well as connection states.
+
+#### Application layer firewall
+
+Filters communications based on an application , program or service.
+
+#### Context aware layer firewall
+
+Filters communications based on the user, device, role , application type and threat profile.
+
+#### Proxy server
+
+Filters web content requests like URLs, domain names and media types.
+
+#### Reverse Proxy Server
+
+Placed in front of web servers , reverse proxy servers protect, hide, offload and distribute access to web servers.
+
+#### Network address translation ( NAT ) firewall
+
+This firewall hides or masquerades the private addresses of network hosts.
+
+#### Host-based firewall
+
+Filters ports and system service calls on a single computer operating system.
+
+#### 4.1.4 Which One?
+
+The CTO forgot to mention that @Apollo has a few firewalls in place. Based on the following statements, can you identify what category of firewall these are? Answer correctly to earn valuable defender points that will help safeguard @Apollo from attack.
+
+
+A small, internal local area network with computers requires access to the Internet using a single Internet connection : **NAT firewall**
+
+By default, Windows tries to block access to applications running on Windows PCs from other computers in the network : **Host-Based firewall**
+
+Employees using computers on the network are not permitted access to specific URLs, such as gambling sites : **Proxy Server**
+
+**That’s right!**
+
+Remember:
+
+- A **NAT firewall** filters communications based on source and destination IP addresses.
+- A **proxy server** filters web content requests like URLs, domain names and media types.
+- A **host-based firewall** filters ports and system service calls on a single computer operating system.
+
+## 4.1.5 Port Scanning
+
+In networking, **each application running** on a device is assigned an identifier called a **port number.** **This port number is used on both ends of the transmission so that the right data is passed to the correct application**. Port scanning is a process of probing a computer, server or other network host for open ports. It can be used maliciously as a **reconnaissance too**l to identify the operating system and services running on a computer or host, or **it can be used harmlessly by a network administrator to verify network security policies on the network.**
+
+**How to carry out a port scan on a computer on your local home network.**
+
+1. Download and launch a port scanning tool like [Zenmap](https://nmap.org/zenmap/). Enter the IP address of your computer, choose a default scanning profile and press ‘scan.’
+
+The scan will report any services that are running, such as web or email services, and their port numbers.
+
