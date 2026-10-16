@@ -1545,3 +1545,14 @@ In networking, **each application running** on a device is assigned an identifie
 
 The scan will report any services that are running, such as web or email services, and their port numbers.
 
+The scan will also report one of the following responses:
+
+1. ‘**Open**’ or ‘**Accepted**’ means that the port or service running on the computer can be accessed by other network devices.
+2. ‘**Closed**,’ ‘**Denied**’ or ‘**Not** **Listening**’ means that the port or service is not running on the computer and therefore cannot be exploited.
+3. ‘**Filtered**,’ ‘**Dropped**’ or ‘**Blocked**’ means that access to the port or service is blocked by a firewall and therefore it cannot be exploited.
+
+To execute a port scan from outside of your network, you will need to run it against your firewall or router’s public IP address.
+
+Enter the query ‘what is my IP address?’ into a search engine such as Google to find out this information.
+
+Go to the [Nmap Online Port Scanner](https://hackertarget.com/nmap-online-port-scanner/), enter your public IP address in the input box and press ‘Quick Nmap Scan.’ If the response is open for ports 21, 22, 25, 80, 443 or 3389 then most likely, port forwarding has been enabled on your router or firewall and you are running servers on your private network.
