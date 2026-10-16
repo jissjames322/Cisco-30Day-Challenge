@@ -1419,3 +1419,32 @@ This module is almost complete. But before you move on, let’s check your knowl
 ### 4.1.1 Security Appliances
 
 There is no single security appliance or piece of technology that will solve all the network security needs in an organization. You must consider what tools will be most effective as part of your security system.
+
+
+### 4.1.1 Security Appliances
+
+Security appliances can be standalone devices like a router or software tools that are run on a network device. They fall into six general categories.
+
+#### Router
+
+While routers are primarily used to interconnect various network segments together, they usually also provide basic traffic filtering capabilities. This information can help you define which computers from a given network segment can communicate with which network segments.
+#### Firewall
+
+Firewalls can look deeper into the network traffic itself and identify malicious behavior that  has to be blocked. Firewalls can have sophisticated security policies applied to the traffic that is passing through them.
+
+#### Intrusion prevention systems
+
+IPS Systems use a set of traffic signatures that match and block malicious and attacks.
+#### Virtual Private networks
+
+**VPN systems let remote employees use a secure encrypted tunnel from their mobile computer and securely connect back to the organization's network.**
+VPN systems can also securely interconnect branch offices with the central office network.
+
+#### Antimalware or antivirus 
+
+These systems use signatures or behavioral analysis of applications to identify and block malicious code from being executed.
+
+#### Other security devices.
+
+Other security devices include web and email security appliances, decryption devices, client access control servers and security management systems.
+
