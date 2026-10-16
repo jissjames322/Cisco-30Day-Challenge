@@ -922,4 +922,40 @@ To mitigate this situation , you should :
 
 [KRACKS](https://www.krackattacks.com/)
 
+# 3.1.4 Public Wi-Fi Risks
 
+When you are away from home, you can access your online information and surf the Internet via public wireless networks or Wi-Fi hotspots. However, there are some risks involved, which mean that it is best not to access or send any personal information when using public Wi-Fi.
+
+You should always verify that your device isn’t configured with file and media sharing and that it requires user authentication with encryption.
+
+You should also use an encrypted VPN service to prevent others from intercepting your information (known as ‘**eavesdropping**’) over a public wireless network. This service gives you secure access to the Internet, by encrypting the connection between your device and the VPN server. Even if hackers intercept a data transmission in an encrypted VPN tunnel, they will not be able to decipher it.
+
+Click [here](https://www.fcc.gov/consumers/guides/protecting-your-wireless-network) to find out more about protecting yourself when using wireless networks.
+
+Don’t forget that the Bluetooth wireless protocol, found on many smartphones and tablets, can also be exploited by hackers to eavesdrop, establish remote access controls, distribute malware and drain batteries!
+
+Therefore, my top tip is to keep Bluetooth turned off when you aren’t using it.
+
+## 3.1.5 Password Security
+
+You’ve logged into your new laptop and it has prompted you to change your network password. You already struggle to remember the few passwords you use for your personal accounts online.
+
+You ask one of your colleagues for their advice. They tell you to use one of the passwords you use for your personal accounts — that’s what they do! They keep their personal passwords written down at the back of their diary, just in case they forget them.
+
+How would you rate your colleague’s attitude to password security on a scale of 1 (bad practice) to 5 (good practice)? 
+
+**That’s right!**
+
+You’ve correctly identified that your colleague is advocating bad password practice and improved your privacy settings. 
+
+It’s important that all of your online accounts have a unique password. Using the same passwords leaves you and your data vulnerable to cybercriminals.
+
+And if it becomes too much to remember all of these passwords, you should use a password manager. This tool stores and encrypts all of your passwords and helps you log into your accounts automatically.
+
+
+## 3.1.6 A Strong Password
+
+1. Do not use dictionary words or names in any languages
+2. Do not use common misspellings of dictionary words
+3. if possible, use special characters such as !@#$%^&*( )
+4. Do not use computer
