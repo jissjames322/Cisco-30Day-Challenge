@@ -958,4 +958,59 @@ And if it becomes too much to remember all of these passwords, you should use a 
 1. Do not use dictionary words or names in any languages
 2. Do not use common misspellings of dictionary words
 3. if possible, use special characters such as !@#$%^&*( )
-4. Do not use computer
+4. Do not use computer names or account names
+5. Use a password with more than ten characters
+
+
+## 3.1.7 Using a Passphrase
+
+In order to prevent unauthorized access to your devices, you should consider using passphrases instead of passwords. A passphrase generally takes the form of a sentence (‘Acat th@tlov3sd0gs.’), making it easier for you to remember. And because it’s longer than a typical password, it’s less vulnerable to dictionary or brute-force attacks.
+
+
+### Creating a good passphrase
+
+- Choose a statement that is meaningful to you
+- Add special characters such as !@#$%^&*( )
+- The longer the better
+- Avoid common or famous statements for example , lyrics from a popular song.
+
+## 3.1.8 Password Guidelines
+
+The **United States National Institute of Standards and Technology (NIST)** has published improved password requirements. NIST standards are intended for government applications but can serve as a standard for other sectors as well.
+
+These guidelines aim to place responsibility for user verification on service providers and ensure a better experience for users overall. They state :
+
+
+- Password should be at least eight characters, but no more than 64 characters.
+- Common , easily guessed passwords, such as 'password' or 'abc123' should not be used.
+- There should be no composition rules, such as having to include lower and uppercase letters and numbers.
+- Users should be able to see the password when typing, to help improve accuracy.
+- All printing characters and spaces should be allowed.
+- There should be no password hints.
+- There should be no password expiration period.
+- There should be no knowledge-based authentication, such as having to provide answers to secret questions or verify transaction history.
+
+Click [here](https://pages.nist.gov/800-63-3/) to find out more about these NIST password requirements.
+
+
+## 3.1.9 Password Check
+
+Based on all this information, you’re ready to update your network password. You are considering several potential options.
+
+Take a look at each of the passwords and decide if you think it’s a strong or weak option. Get this right and you’ll improve your privacy settings.
+
+You got 7 correct out of 7.
+
+**That’s right, well done!**
+
+By identifying and choosing the strong passwords, you’ve improved your privacy settings. Click on the icon in the top right-hand corner to see how you are doing.
+
+Don’t forget that passwords are widely used to prevent unauthorized access to your data and resources. So, to protect yourself and stay ahead of the attackers, make sure to always follow the guidance provided in this topic and create strong, unique passwords for all of your online accounts.
+
+Even with access to your computers and network devices secured, it is also important to protect and preserve your data.
+
+# 3.2 Data Maintenance
+
+Are you ready to share all of your photos with strangers? Your financial information with your friends? Your email passwords with the general public? No? Then your data must be encrypted.
+
+### 3.2.1 What Is Encryption?
