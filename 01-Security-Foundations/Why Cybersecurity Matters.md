@@ -1183,5 +1183,74 @@ What factors should you consider before **you sign up to an online service?**
 
 - Have you read the **Terms of Service?**
 - What are your rights **regarding your data?**
-- Can you request a copy of your data?
-- What can the provider
+- Can you **request a copy of your data?**
+- What can the **provider do with the data you**
+- What happens to **your data when you close your account?**
+
+### 3.3.7 Protect Your Data
+
+You must always take appropriate action to protect your data and safeguard your account.
+
+Thinking back to the Terms of Service examples outlined above, what can you do to protect yourself when you enter into an agreement with an online service provider? What can you do to safeguard your account and protect your data?
+
+To protect your data and safeguard your account, you should:
+
+- always read the **Terms of Service when registering** for a new service and decide whether the service is worth waiving your rights to your data for
+- select your **privacy settings rather than accepting the default**
+- limit the **group of people you share content with**
+- review the service **provider’s security policy to understand what they are doing to protect your data**
+- change your passwords periodically, use a complex password and two factor authentication to secure your account.
+
+
+Paying attention to the Terms and Conditions before you sign up is just one way to protect your data. Let's look at what else you can do to help safeguard your online privacy.
+
+
+# 3.4 Safeguarding Your Online Privacy
+
+## 3.4.1 Two Factor Authentication
+
+Popular online services, such as Google, Facebook, Twitter, LinkedIn, Apple and Microsoft, use **two factor authentication** to add an extra layer of security for account logins.
+
+Besides your username and password or personal identification number (PIN), two factor authentication requires a second token to verify your identity. This may be a:
+
+- physical object such as a credit card, mobile phone or fob
+- biometric scan such as a fingerprint or facial and voice recognition
+- verification code sent via SMS or email.
+
+Click [here](https://twofactorauth.org/) to find out more about two factor authentication.
+
+
+**Be careful!**
+
+Even with two factor authentication, hackers can still gain access to online accounts through phishing attacks, malware and social engineering.
+
+## 3.4.2 Open Authorization
+
+Open authorization (OAuth) is an **open standard protocol** that allows you to use your credentials to access third-party applications without exposing your password.
+
+You are looking forward to registering for Cisco’s ‘Cybersecurity Essentials,’ the next course in this series, to help you develop your career. But you must be logged into the eLearning portal to do so.
+
+You can’t remember your login details, but that’s OK. The portal gives you the option of logging in using your credentials from a social media website such as Facebook or via another account such as Google.
+
+So instead of having to reset your login details, you log into the eLearning portal using your existing social media accounts and register for your next course with ease. You can’t wait to get started!
+
+
+### 3.4.3 Social Sharing
+
+You decide to update your new job position on your social networks. When doing so, one of the sites asks you to update your profile information to ensure you receive the content that you really don’t want to miss!
+
+You take a look at the missing fields. Which ones do you fill in? Remember, answering correctly will improve your privacy settings, so think carefully about the information you want to share online.
+
+**That’s right!**
+
+You’ve shared just the right amount of information and boosted your online privacy settings. Click the icon in the top right-hand corner to check your progress.
+
+In order to safeguard your privacy on social media, it’s important to share as **little personal information as possible**. You should also check your social media settings so that only people you know can see your activities or engage in conversations with you.
+
+The more information you share online, the easier it is for someone to create a profile about you and take advantage of you, both online and offline.
+
+
+### 3.4.4 Don't Get Spoofed
+
+A simple forged or spoofed email can lead to a massive **data breach and perhaps cause irreversible damage to your reputation.**
+
