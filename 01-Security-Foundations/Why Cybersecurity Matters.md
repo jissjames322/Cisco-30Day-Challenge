@@ -1338,3 +1338,35 @@ The designer should check with a member of the IT team before installing any app
 ## 3.5.5 Scenario 5
 
 Have you ever had a warning message telling you to download a diagnostics program that will make your computer safe? You should be aware of the risks.
+
+This message appears while you are online. Which of the following actions should you take?
+
+1. Close the pop-up or browser by : Clicking **X**
+2. Protect your system, which hasn’t been corrupted yet, by: **Running a system security scan with your trusted antivirus software**
+3. Check if a legitimate application update is needed from a trusted source by: check the application and visit their official website
+
+**That’s right.**
+
+Clicking anything other than the close icon could put your system at risk.
+
+To be sure, you should run a system security scan with your trusted antivirus software on your computer. **And you should always refuse or cancel update reminders unless you are sure they are from the official, trusted source.**
+
+## 3.5.6 Scenario 6
+
+Clicking on links in an email might seem safe, but often all is not what it seems. Make sure you know the signs to look out for!
+
+@Apollo has seen an increase in the number of phishing emails being received by their staff. They decide to implement a **quick training exercise to help employees spot the signs of an unsafe email. Have a go yourself!**
+
+**That’s right!**
+
+The key indications of a potential phishing email are signs that it has been sent from outside of the organization.
+
+Remember that even if you think the email is safe, you should always check with your IT department before clicking links to download anything.
+
+This module is almost complete. But before you move on, let’s check your knowledge with a short quiz.
+
+
+----
+
+1.Which type of technology can prevent malicious software from monitoring user activities , collecting personel information and producing unwanted pop-up ads on a user computer?
+
