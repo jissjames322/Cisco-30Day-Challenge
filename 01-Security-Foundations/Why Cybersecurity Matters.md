@@ -1318,3 +1318,23 @@ In your own words, describe what a password manager application is, how they wor
 ## 3.5.3 Scenario 3
 
 Connecting to an open Wi-Fi hotspot can make your system and data vulnerable to an attack.
+
+@Apollo’s Sales Manager is traveling to meet a client. She forgot to download the contract from @Apollo’s server to bring to the meeting with her. The train has an open Wi-Fi network. She contacts you to ask what she should do. What would you advise?
+
+**That’s right!**
+
+The Sales Manager can use the VPN connection on her laptop to create a secure, encrypted channel back to @Apollo, on top of the untrusted open Wi-Fi network. This way, all the traffic from her laptop will be securely transferred over the secure VPN tunnel.
+
+## 3.5.4 Scenario 4
+
+Are you aware of the risks that come when downloading a trial version of a program?
+
+A designer at @Apollo needs to install some **image manipulation software**. The mainstream application is really expensive, and it’s only needed for one small piece of a one-off project. The Design Manager says this would not be a cost-effective purchase and says to install an alternative free application instead — the manager doesn’t mind if it’s from an untrusted source as they feels the risks are low. **Should the designer take the manager’s advice?**
+
+**That’s right!**
+
+The designer should check with a member of the IT team before installing any applications from a non-trusted source, even if it was advised by a manager. No organization can afford to take the risk of a cyber attack from installing applications from an untrusted source.
+
+## 3.5.5 Scenario 5
+
+Have you ever had a warning message telling you to download a diagnostics program that will make your computer safe? You should be aware of the risks.
