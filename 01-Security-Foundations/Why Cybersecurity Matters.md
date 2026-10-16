@@ -1114,3 +1114,74 @@ delete again
 sdelete -z 1
 ```
 
+--------
+
+The only way to be certain that data or files are not recoverable is to physically destroy the hard drive or storage device. Many criminals have taken advantage of files thought to be **impenetrable** or **irrecoverable**.
+
+Don’t forget about data that may be stored online in the cloud. These copies will also need to be deleted.
+
+**Take a moment to consider where you save your data. Is it backed up and encrypted?** Why not put some of the information from this topic into practice and keep your valuable information safe and secure?
+
+You should also be aware of how your personal data will be treated when you enter into a service agreement with an online service provider.
+
+
+# 3.3 Who Owns you Data?
+
+### 3.3.1 Terms of Service
+
+You have been asked to set up an online photo storage and sharing account to be used for creative collaboration with the design department and other teams at @Apollo.
+
+**When signing up, you are prompted to sign a service agreement with the provider. You don’t think too much about it and agree to all the terms without reading them.**
+
+You have just signed a Terms of Service agreement. But do you know what this is? Consider the following options and choose the one you think best describes a Terms of Service agreement.
+
+**That’s right!**
+
+**The Terms of Service, also known as Terms of Use or Terms and Conditions, is a legally binding contract that governs the rules of the relationship between you, the service provider and others who use the service.**
+
+
+### 3.3.2 Understand the Terms
+
+The Terms of Service will include a **number of sections, from user rights and responsibilities to disclaimers and account modification terms.**
+
+- The data use policy outlines **how the service provider will collect, use and share your data.**
+- The privacy settings allow you to control **who sees information about you and who can access your profile or account data.**
+- The security policy outlines **what the company is doing to secure the data it obtains from you.**
+
+
+### 3.3.3 What Are You Agreeing To?
+
+You have successfully created the @Apollo account and agreed to the Terms of Service of the online photo sharing company. But do you really know what you have signed up for?
+
+Let’s take a closer look.
+
+### 3.3.4 The Data Use Policy
+
+The data use policy of the company you used to set up the account states that for any content you publish: _“**you grant us a non-exclusive, transferable, sub-licensable, royalty-free, and worldwide license to host, use, distribute, modify, run, copy, publicly perform or display, translate, and create derivative works of your content (consistent with your privacy and application settings)”_.**
+
+What does this statement really mean?
+
+**That’s right.**
+
+It means that **while you are the owner of the content, the company could re-use any content you have shared for any purposes.**
+
+### 3.3.5 Privacy Settings
+
+As you didn’t set the privacy settings before you accepted the terms, default settings were applied.
+
+**That’s right.**
+
+Accepting the default privacy settings usually means that anyone can see information about you and access your profile.
+
+Now that you’ve taken a closer look, are you still happy to agree to all these terms?
+
+
+### 3.3.6 Before You Sign Up
+
+What factors should you consider before **you sign up to an online service?**
+
+
+- Have you read the **Terms of Service?**
+- What are your rights **regarding your data?**
+- Can you request a copy of your data?
+- What can the provider
