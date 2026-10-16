@@ -1014,3 +1014,67 @@ Even with access to your computers and network devices secured, it is also impor
 Are you ready to share all of your photos with strangers? Your financial information with your friends? Your email passwords with the general public? No? Then your data must be encrypted.
 
 ### 3.2.1 What Is Encryption?
+
+Encryption is the process of converting information into a form in which unauthorized parties cannot read it. Only a trusted, authorized person with the secret key or password can decrypt the data and access it in its original form.
+
+Note that the encryption itself does not prevent someone from intercepting the data. It can only prevent an unauthorized person from viewing or accessing the content. In fact, some criminals may decide to simply encrypt your data and make it unusable until you pay a ransom.
+
+
+### 3.2.2 How Do You Encrypt Your Data?
+
+Software programs are used to encrypt files, folders and even entire drives.
+
+**Encrypting File System (EFS)** is a Windows feature that can encrypt data. It is directly linked to a specific user account and only the user that encrypts the data will be able to access it after it has been encrypted using EFS.
+
+**how to encrypt data using EFS in all Windows versions.**
+
+1. Select one or more files or folders
+2. Right click the selected data and go to '**Properties**'
+3. Find and click **Advanced**
+4. Select the **Encrypt contents to secure data** check box.
+5. Files and folders that have been encrypted with EFS are displayed in green as shown in here.
+
+Consider the amount of valuable data you have stored on your mobile phone or laptop. You probably have important documents, contact information and family photos!
+
+So imagine if your mobile phone was stolen or you lost your laptop. All that information would be lost... unless you have it backed up!
+
+
+## 3.2.3 Back Up Your Data
+
+Having a backup may prevent the loss of irreplaceable data. To back up data properly, you will need an additional storage location for the data and you must copy the data to that location regularly.
+
+### Home network
+
+Storing your data locally means that you have total control of it.
+
+### Secondary location
+
+You could copy all of your data to a **network attached storage device (NAS), a simple external hard drive or maybe even back up important folders on thumb drives, CDs, DVDs or tapes**. In this scenario, you are the owner of the data and you are totally responsible for the cost and maintenance of the storage device equipment.
+
+### The cloud
+
+You could subscribe to a cloud storage service, like **Amazon Web Services (AWS)**. The cost of this service will depend on the amount of storage space you need, so you may need to be more selective about what data you back up. You will have access to your backup data as long as you have access to your account.
+
+One of the benefits of using a cloud storage service is that your data is safe in the event of a storage device failure or if you experience an extreme situation such as a fire or theft.
+
+
+### 3.2.4 Are They Really Gone?
+
+You’ve logged into your laptop but it contains some photos belonging to the previous user, who no longer works at @Apollo. Your line manager asks you to delete them. You drag the photos into the recycle bin, open the recycle bin, select them and click ‘Delete’ once again. That should do it!
+
+Do you think the photos are really gone from the laptop?
+
+**That’s right!**
+
+When you move a file to the recycle bin and delete it permanently, the file is only inaccessible from the operating system. Anyone with the right forensic tools could still recover the file due to a magnetic trace left on the hard drive.
+
+So how do you ensure that erased data is no longer recoverable? Let’s see…
+
+
+## 3.2.5 How Do You Delete Your Data Permanently?
+
+Have you ever had to delete data or get rid of a hard drive? If so, did you take any precautions to safeguard the data to keep it from falling into the wrong hands?
+
+ **what you should do to ensure you delete your files securely and permanently.**
+
+- To erase data so that it is no longer recoverable , it must be overwritten with ones and zeroes multiple times, using tools specifically designed to do just that. **SDelete** from Microsoft claims to have the ability to remove sensitive files completely .**Shred** for Linux and **Secure Empty Trash** for Mac OS X claim to provide a similar service.
