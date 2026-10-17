@@ -1692,3 +1692,152 @@ Encrypt all sensitive organizational data, including email.
 There are other ways of detecting cyber threats other than looking for malicious signatures.
 
 One way that's becoming more common is behavior-based security, which focuses on detecting suspicious network or user behavior.
+
+
+# 4.2 Behavior Approach to Cybersecurity
+
+
+Great work so far! You are starting to understand the makeup of the security system in place at eLearning company @Apollo.
+
+Let’s keep going...
+
+
+## 4.2.1 Behavior-Based Security
+
+Behavior-based security is a form of threat detection that involves capturing and analyzing the flow of communication between a user on the local network and a local or remote destination. Any changes in normal patterns of behavior are regarded as anomalies, and may indicate an attack.
+
+**Two behavior-based detection tools.**
+
+![[Pasted image 20261017103121.png]]
+
+### Honeypots
+
+A honeypot is a **behavior-based detection too**l that lures the attacker in by appealing to their predicted pattern of malicious behavior. **Once the attacker is inside the honeypot , the network administrator can capture, log and analyze their behavior so that they can build a better defense.**
+
+
+
+![[Pasted image 20261017103322.png]]
+
+### Cisco's Cyber Threat Defense Solution Architecture
+
+This security architecture uses behavior-based detection and indicators to provide greater visibility, context and control. The aim is to know who is carrying out the attack, what type of attack they are performing and where , when and how the attack is taking place.
+This security architecture uses many security technologies to achieve this goal.
+
+
+### 4.2.2 NetFlow
+
+**NetFlow technology is used to gather information about data flowing through a network,** including **who and what devices are in the network, and when and how users and devices access the network.**
+
+NetFlow is an important component in behavior-based detection and analysis. Switches, routers and firewalls equipped with NetFlow can **report information about data entering, leaving and traveling through the network.** 
+
+This information is sent to NetFlow collectors that collect, store and analyze NetFlow data, which can be used **to establish baseline behaviors on more than 90 attributes, such as source and destination IP address.**
+
+
+![[Pasted image 20261017103815.png]]
+### 4.2.3 Penetration Testing
+
+Penetration testing, commonly known as pen testing, is the act of assessing a computer system, network or organization for security vulnerabilities. A pen test seeks to breach systems, people, processes and code to uncover vulnerabilities which could be exploited. This information is then used to improve the system’s defenses to ensure that it is better able to withstand cyber attacks in the future.
+
+
+**The five-step pen test process.**
+
+#### Planning 
+
+The pen tester gathers as much information as possible about a target system or network, its potential vulnerabilities and exploits to use against it. This involves conducting passive or active reconnaissance (footprinting) and vulnerability research.
+#### Scanning
+
+The pen tester carries out active reconnaissance to probe a target system or network and identify potential weaknesses which, if exploited, could give an attacker access. Active reconnaissance may include:
+- port scanning to identify potential access points into a target system
+- vulnerability scanning to identify potential exploitable vulnerabilities of a particular target
+- establishing an active connection to a target (enumeration) to identify the user account, system account and admin account.
+#### Gaining access
+
+The pen tester will attempt to gain access to a target system and sniff network traffic, using various methods to exploit the system including:
+
+- launching an exploit with a payload onto the system
+- breaching physical barriers to assets
+- social engineering
+- exploiting website vulnerabilities
+- exploiting software and hardware vulnerabilities or misconfigurations
+- breaching access controls security
+- cracking weak encrypted Wi-Fi.
+
+#### Maintaining access
+
+The pen tester will maintain access to the target to find out what data and systems are vulnerable to exploitation. It is important that they remain undetected, **typically using backdoors, Trojan horses, rootkits and other covert channels to hide their presence.**
+
+**When this infrastructure is in place, the pen tester will then proceed to gather the data that they consider valuable.**
+
+#### Analysis and reporting
+
+The pen tester will provide feedback via a report that recommends updates to products, policies and training to improve an organization’s security.
+
+
+#### 4.2.4 Your Turn
+
+You’ve been tasked with carrying out an internal pen test to check @Apollo’s computer network for vulnerabilities. How will you go about conducting your test?
+
+**Great work! You have correctly identified how to carry out a pen test:**
+
+1. Footprinting through the network to find ways to intrude gives you a chance to gather the information you need to **plan** a simulated attack.
+2. **Scanning** a target allows you to identify potential exploitable weaknesses.
+3. You will need to **gain access** to a network to exploit any vulnerabilities and simulate an attack.
+4. **Maintaining access**, without being detected, means that you can gather further information on a target’s vulnerabilities.
+5. Your findings will be **reported** to the organization so that security improvements can be made.
+
+
+### 4.2.5 Impact Reduction
+
+While most organizations today are aware of common security threats and put considerable effort into preventing them, no set of security practices is foolproof. Therefore, organizations must be prepared to contain the damage if a security breach occurs. And they must act fast!
+
+**The actions organizations should take when a security breach is identified.**
+
+### Communicate the issue
+
+Communication creates transparency, which is critical in this type of situation.
+
+Internally, all employees should be informed and a clear call to action communicated.
+
+Externally, all clients should be informed through direct communication and official announcements.
+
+#### Be sincere and accountable
+
+Respond to the breach in an honest and genuine way, taking responsibility where the organization is at fault.
+
+#### Provide the details
+
+Be open and explain why the breach took place and what information was compromised. Organizations are generally expected to take care of any client costs associated with identity theft services required as a result of a security breach.
+
+#### Find the cause
+
+Take steps to understand what caused and facilitated the breach. This may involve hiring forensics experts to research and find out the details.
+
+#### Apply lessons learned
+
+Make sure that any lessons learned from forensic investigations are applied to prevent similar breaches from happening in the future.
+
+#### Check, and check again
+
+Attackers will often attempt to leave a backdoor to facilitate future breaches. To prevent this from happening, make sure that all systems are clean, no backdoors are installed and nothing else has been compromised.
+#### Educate
+
+Raise awareness, train and educate employees, partners and clients on how to prevent future breaches.
+
+Don’t forget, the impact of a security breach extends beyond the technical aspect of stolen data or damaged intellectual property. It can have a devastating effect on an organization’s reputation!
+
+#### 4.2.6 What Is Risk Management?
+
+Risk management is the formal process of continuously identifying and assessing risk in an effort to reduce the impact of threats and vulnerabilities. You cannot eliminate risk completely but you can determine acceptable levels by weighing up the impact of a threat with the cost of implementing controls to mitigate it. The cost of a control should never be more than the value of the asset you are protecting.
+
+**The risk management process.**
+#### Frame the risk
+
+Identify the threats that increase risk. Threats may include processes , products, attacks , or potential failure or disruption of services, negative perception of an organization's reputation, potential legal liability or loss of intellectual property.
+
+#### Assess the risk
+
+Determine the severity that each threat poses. For example , some threats may have the potential to bring an entire organization to a standstill,  while other threats may be only minor inconveniences. Risk can be 
+
+
+
+
