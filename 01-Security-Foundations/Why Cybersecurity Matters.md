@@ -1556,3 +1556,139 @@ To execute a port scan from outside of your network, you will need to run it aga
 Enter the query ‘what is my IP address?’ into a search engine such as Google to find out this information.
 
 Go to the [Nmap Online Port Scanner](https://hackertarget.com/nmap-online-port-scanner/), enter your public IP address in the input box and press ‘Quick Nmap Scan.’ If the response is open for ports 21, 22, 25, 80, 443 or 3389 then most likely, port forwarding has been enabled on your router or firewall and you are running servers on your private network.
+
+
+### 4.1.6 What Does It Mean?
+
+Your line manager asks you to evaluate @Apollo’s computer network’s firewall and port security. You execute a port scan, which returns an ‘open’ state response.
+
+
+The port scan reported an ‘**open**’ state response. This means that the service running on the network can be **accessed** by other network devices. Therefore, if the service contains a vulnerability, it can be exploited by an attacker.
+
+**That's right.**
+
+An ‘open’ state response means that the service running on the network **can be accessed** by other networks and if the service does contain a vulnerability, **it could be exploited by an attacker** who could potentially gain access to computers on the network.
+
+**It’s important to note that port scanning should be seen as a precursor to a network attack and therefore should never be carried out on public servers on the internet or on an organization's network without permission.**
+
+### 4.1.7 Intrusion Detection and Prevention Systems
+
+**Intrusion detection systems (IDSs)** and **intrusion prevention systems (IPSs)** are security measures deployed on a network to detect and prevent malicious activities.
+
+![[Pasted image 20261016152535.png]]
+
+**An IDS can either be a dedicated network device or one of several tools in a server , firewall or even a host computer operating system, such as windows or Linux , that scans data against a database of rules or attack signatures, looking for malicious traffic.**
+
+If a match is detected , the **IDS will log the detection** and **create an alert for a network administrator** . It ill not take action and therefore it will not **prevent attacks from happening. The job of the IDS is to detect , log and report.**
+
+The scanning performed by the IDS slows down **the network (Known as latency)**. To prevent **network delay, an IDS is usually placed offline, separate from regular network traffic. Data is copied or mirrored by a switch and then forwarded to the IDS for offline detection.**
+
+![[Pasted image 20261016152954.png]]
+
+
+An IPS can block or deny traffic based on a positive rule or signature match. One of the most well-known IPS/IDS systems is **Snort**. The commercial version of **Snort is Cisco's Sourcefire**. Sourcefire can perform real-time traffic and port analysis, logging , content searching and matching , as well as detect probes, attacks and execute port scans, it also integrates with other third-party tools for reporting, performance and log analysis.
+
+
+Software is not perfect. And more than ever before, hackers are exploiting flaws in software before creators get a chance to fix them. When they do this, hackers are said to have carried out a **zero-day attack!**
+
+**The ability to detect these attacks in real time, and stop them immediately, or within minutes of occurring, is the ultimate goal.**
+
+
+#### 4.1.8 Real-Time Detection
+
+Many organizations today are unable to detect attacks until days or even months after they occur.
+
+Detecting attacks in real time requires actively scanning for attacks using firewall and IDS/IPS network devices. Next generation client and server malware detection with connections to online global threat centers must also be used. Today, active scanning devices and software must detect network anomalies using context-based analysis and behavior detection.
+
+**DDoS** is one of the biggest attack threats requiring real-time detection and response. For many organizations, regularly occurring **DDoS attacks cripple Internet servers** and network availability. These attacks are extremely difficult to defend against because the attacks originate from **hundreds, even thousands, of zombie hosts, and the attacks appear as legitimate traffic.**
+
+
+## 4.1.9 Protecting Against Malware
+
+One way of defending against **zero-day attacks and advanced persistent threats (APTs)** is to use an enterprise-level advanced malware detection solution, like Cisco’s **Advanced Malware Protection (AMP) Threat Grid**.
+
+This is client/server software that can be deployed on host endpoints, as a **standalone server** or on other network security devices. **It analyzes millions of files and correlates them against hundreds of millions of other analyzed malware artifacts for behaviors that reveal an APT. This approach provides a global view of malware attacks, campaigns and their distribution.**
+
+
+**Benefits of Cisco's Threat Grid.**
+
+#### Secure Operations Center team
+
+The Threat Grid allows the **Cisco Secure Operations Center** team to gather more accurate, actionable data.
+
+#### Incidence Response team
+
+The Incidence Response team therefore has access to forensically sound information from which it can more quickly analyze and understand suspicious behaviors.
+
+#### Threat Intelligence team
+
+Using this analysis, the Threat Intelligence team can proactively improve the organization’s security infrastructure.
+#### Security Infrastructure Engineering team
+
+Overall, the Security Infrastructure Engineering team is able to consume and act on threat information faster, often in an automated way.
+
+
+### 4.1.10 Security Best Practices
+
+Many national and professional organizations have published lists of security best practices. Some of the most helpful guidelines are found in organizational repositories such as the **National Institute of Standards and Technology (NIST) Computer Security Resource Center.**
+
+
+#### Perform a risk assessment
+
+Knowing and understanding the value of what you are protecting will help to justify security expenditures.
+
+#### Create a security policy
+
+Create a policy that clearly outlines the organization’s rules, job roles, and responsibilities and expectations for employees.
+
+#### Physical Security Measures
+
+Restrict access to networking closets and server locations, as well as fire suppression.
+
+#### Human resources security measures
+
+Background checks should be completed for all employees.
+
+
+#### Perform and test backups
+
+Back up information regularly and test data recovery from backups.
+
+#### Maintain security patches and updates
+
+Regularly update server, client and network device operating systems and programs.
+
+#### Employ access controls
+
+Configure user roles and privilege levels as well as strong user authentication.
+
+
+#### Regularly test incident response
+
+Employ an incident response team and test emergency response scenarios.
+
+#### Implement a network monitoring , analytics and management tool
+
+Choose a security monitoring solution that integrates with other technologies.
+
+#### Implement network security devices
+
+Use next generation routers, firewalls and other security appliances.
+
+#### Implement a comprehensive endpoint security solutions
+
+Use enterprise level antimalware and antivirus software.
+
+#### Educate users
+
+Provide training to employees in security procedures.
+
+One of the most widely known and respected organizations for cybersecurity training is the SANS Institute. Click [here](https://www.sans.org/about/) to learn more about SANS and the types of training and certifications they offer.
+
+#### Encrypt data
+
+Encrypt all sensitive organizational data, including email.
+
+There are other ways of detecting cyber threats other than looking for malicious signatures.
+
+One way that's becoming more common is behavior-based security, which focuses on detecting suspicious network or user behavior.
