@@ -2016,3 +2016,30 @@ Cisco also has a [team](https://www.cisco.com/c/m/en_us/about/csr/esg-hub.html) 
 
 
 There’s no shortage of cybersecurity jobs. We are here to support you to find your dream role.
+
+
+## 5.2 Education and careers
+
+
+#### 5.2.1 Become a Cybersecurity Guru
+
+
+You have excelled in your role as an entry level Security Analyst at @Apollo but there are so many cybersecurity jobs to consider.
+
+Even if you are just beginning your cybersecurity career, it’s a good idea to start looking at job search engines, such as [Indeed](https://www.indeed.com/), [LinkedIn](https://www.linkedin.com/), [Monster](http://jobs.monster.com/search/?q=cybersecurity) and [CareerBuilder](http://www.careerbuilder.com/jobs/keyword/cyber-security) to get a sense of what kind of jobs are available, all over the world!
+
+
+#### 5.2.2 Professional Certifications
+
+Cybersecurity certifications are a great way for you to verify your skills and knowledge and can also boost your career.
+
+##### The Most Common Certificates
+
+
+#### Cisco Certified Support Technician (CCST) Cybersecurity
+
+This is an entry-level certification for newcomers who are preparing to start their career in the cybersecurity field. It is aimed at a high school and early college students as well as those interested in career change, This certificate does not expire or require periodic recertification
+
+#### CompTIA Security+
+
+This is an entry-level security certification that meets the U.S Department of Defense Directive 8570.01-M requirements , which is an important item for anyone looking to work
