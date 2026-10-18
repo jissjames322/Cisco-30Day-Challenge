@@ -2066,3 +2066,4 @@ Depending on your personal interests, there will be different job options for yo
 
 
 CyberSeek is a tool that provides detailed data about supply and demand in the cybersecurity job market to help close the cybersecurity skills gap. [Click here](http://www.cyberseek.org/pathway.html) to view the interactive career pathway which shows the range of jobs in cybersecurity, as well as detailed information about the salaries, credentials and skill sets associated with each job.
+
