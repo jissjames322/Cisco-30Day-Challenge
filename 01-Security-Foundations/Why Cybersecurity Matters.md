@@ -1836,8 +1836,183 @@ Identify the threats that increase risk. Threats may include processes , product
 
 #### Assess the risk
 
-Determine the severity that each threat poses. For example , some threats may have the potential to bring an entire organization to a standstill,  while other threats may be only minor inconveniences. Risk can be 
+Determine the severity that each threat poses. For example , some threats may have the potential to bring an entire organization to a standstill,  while other threats may be only minor inconveniences. Risk can be prioritized by assessing financial impact (a quantitative analysis) or scaled impact on an organization's operation ( a qualitative analysis )
 
 
+#### Respond to the risk
+
+Develop an action plan to reduce overall organization risk exposure, detailing where risk can be eliminated mitigated, transferred or accepted.
+
+#### Monitor the risk
+
+Continuously review any risk reduced through elimination, mitigation or transfer actions, Remember, not all risks can be eliminated , so you will need to closely monitor any threats that have been accepted.
+
+Cybersecurity expertise is in great demand. Most large organizations have dedicated **Computer Security Incident Response Teams (CSIRT)** to protect them from cyber attacks. Let’s take a look at how this works at Cisco.
 
 
+# 4.3 Cisco's Approach to Cybersecurity
+
+
+Cybersecurity is becoming a significant business concern. Organizations should therefore have plans in place to prepare for, deal with, and recover from a security breach.
+
+Here at @Apollo, we use Cisco technology. Let’s check these out.
+
+## 4.3.1 Cisco's CSIRT
+
+Many large organizations have a **Computer Security Incident Response Team (CSIRT) to receive, review and respond to computer security incident reports.** Cisco CSIRT goes a step further and provides proactive threat assessment, mitigation planning, incident trend analysis and security architecture review in an effort to prevent security incidents from happening.
+
+Cisco’s CSIRT takes a proactive approach, collaborating with the **Forum of Incident Response and Security Teams (FIRST)**, the **National Safety Information Exchange (NSIE)**, the **Defense Security Information Exchange (DSIE)** and the **DNS Operations Analysis and Research Center (DNS-OARC)** to ensure we stay up-to-date with new developments.
+
+There are several national and public CSIRT organizations, like the **CERT Division of the Software Engineering Institute at Carnegie Mellon University, that are available to help organizations and national CSIRTs to develop, operate and improve their incident management capabilities.**
+
+
+### 4.3.2 Security Playbook
+
+
+One of the best ways to prepare for a security breach is to prevent it. Organizations should provide guidance on:
+
+- how to identify the cybersecurity risk to systems, assets , data and capabilities
+- The implementation of safeguards and personnel training
+- a flexible response plan that minimizes the impact and damage in the event of a security breach.
+- security measures and processes that need to be put in place in the aftermath of a security breach.
+
+All the information should be compiled into a security playbook.
+
+
+A **Security playbook**  is a collection of repeatable queries or reports that outline a standardized process for incident detection and response, ideally , a security playbook should:
+
+- Highlight how to identify and automate the response to common threats such as the detection of malware-infected machines, suspicious network activity or irregular authentication attempts.
+
+- Describe and clearly define inbound and outbound traffic
+- provide summary information including trends, statistics and counts.
+- provide usable and quick access to key statistics and metrics
+- correlate events across all relevant data sources.
+
+
+### 4.3.3 Tools for Incident Detection and Prevention
+
+There are a range of tools used to detect and prevent security incidents.
+
+
+### SIEM
+
+A Security Information and Event Management (SIEM) system collects and analyzes security alerts , logs and other real-time and historical data from security devices on the network to facilitate early detection of cyber attacks.
+
+
+### DLP
+
+A **Data Loss Prevention** (DLP) system is designed to stop sensitive data from being stolen from or escaping a network, it monitors and protects data in three different states, **data in use** (Data being accessed by a user) , **Data in motion** (Data traveling through the network ) and **Data at rest** ( Data stored in a computer network or device.)
+
+Defining and implementing all of these various security policies can be time consuming and challenging. But Cisco has come up with a solution.
+
+### 4.3.4 Cisco’s ISE and TrustSec
+
+
+**Cisco Identity Services Engine (ISE)** and **TrustSec** enforce user access to network resources by creating role-based access control policies.
+
+**StealthWatch**
+
+Cisco Network Visibility and Segmentation
+
+### 4.3.5 Talk the Talk
+
+
+This module contains a lot of technical information and jargon that you’ll need to know to develop your career in cybersecurity
+
+
+- Blocks or denies traffic based on a positive rule or signature match : **IPS**
+
+- A system designed to stop sensitive data from being stolen from or escaping a network : **DLP**
+
+- A system that collects and analyzes security alerts, logs and other real time and historical data from security devices on the network : **SIEM**
+
+- Scans data against a database of rules or attack signatures, logs any detections and creates an alert for the network administrator : **IDS**
+
+**That’s right!**
+
+You have successfully matched each term to its description and gained some points that will help protect @Apollo from a cyber attack.
+
+Remember:
+
+- An **IPS** can block or deny traffic based on a positive rule or signature match.
+- An **IDS** scans data against a database of rules or attack signatures, looking for malicious traffic.
+- A **DLP** system is designed to stop sensitive data from being stolen from or escaping a network. 
+- A **SIEM** system collects and analyzes security alerts, logs and other real-time and historical data from security devices on the network.
+
+Cybersecurity is critical for protecting all organizations, big and small, from cyber attacks and it can encompass a wide range of tools, structures, policies and processes.
+
+
+# 5. Will Your Future Be In Cybersecurity?
+
+
+## 5.1 Legal and Ethical Issues
+
+
+### 5.1.1 Legal Issues in Cybersecurity
+
+In order to protect against attacks, cybersecurity professionals must have the same skills as the attackers. However, cybersecurity professionals use their skills within the bounds of the law.
+
+
+#### **Personal legal issues**
+
+At work or home, you may have the opportunity and skills to hack another person’s computer or network. But there is an old saying, **'Just because you can does not mean you should.' Most hacks leave tracks, which can be traced back to you.**
+
+Cybersecurity professionals develop many skills, which can be used positively or illegally. There is always a huge demand for those who choose to put their cyber skills to good use within legal bounds.
+
+
+#### **Corporate legal issues**
+
+Most countries have cybersecurity laws in place, which businesses and organizations must abide by.
+
+In some cases, if you break cybersecurity laws while doing your job, the organization may be punished and you could lose your job. In other cases, you could be prosecuted, fined and possibly sentenced.
+
+In general, if you are unsure whether an action or behavior might be illegal, assume that it is illegal and do not do it. Always check with the legal or HR department in the organization.
+
+In addition to working within the confines of the law, you must also be able to demonstrate ethical behavior and act responsibly in your work.
+
+Let’s consider an example.
+
+
+#### 5.1.2 Ethical Issues in Cybersecurity
+
+Think back to the pen test you carried out for @Apollo. This test revealed that one of your colleagues, who started at the same time as you, was responsible for a data breach. You are thinking of not including this in your report as they might get in trouble.
+
+
+**Ask yourself the following questions to help you decide on the best course of action.**
+
+- Is it legal?
+- Does your action comply with @Apollo policy?
+- Will your action be favorable for @Apollo and its stakeholders?
+- Would it be okay if everyone in @Apollo took this action?
+- Would the outcome of your action represent @Apollo in a positive light in a news headline?
+
+#### 5.1.3 How did you answer?
+
+
+##### IF YES
+
+
+if you are able to answer 'Yes' to all these questions, then it's likely to be appropriate to move with your action.
+
+However , it's important to remember that just because something is legal, it may not be ethical.
+
+In this case , while withholding the information from your pen test report is not illegal, it is not the ethical thing to do. The consequences of not reporting it could be devastating for @Apollo and its customers.
+
+##### IF NO
+
+If your response to any of these questions is 'No' , you should stop and reconsider your actions, which could have serious legal ramification for  you and the organization.
+
+In this example, you are right to question your initial thoughts . Every new finding in cybersecurity must be reported to protect @Apollo and its customers. Remember , always seek advice from your line manager or a legal  or HR representative to clarify if your action or behavior might be considered unethical.
+
+
+Click [here](https://www.netacad.com/authoring-resources/courses/ff9e491c-49be-4734-803e-a79e6e83dab1/866b3a4e-fb0a-5c0d-9f0e-0cb5c2f444d3/en-US/assets/module5.pdf_en-US_f4fcc3fc-5170-44bd-ab74-a123a9a9472e.pdf) to download a copy of our Ethics Decision Tree, which can be applied to your own place of work.
+
+
+#### 5.1.4 Corporate Ethical Issues
+
+Many professional IT organizations such as the [Information Systems Security Association](https://www.issa.org/code-of-ethics/) (ISSA) have published Codes of Ethics to help guide employee actions and behaviors.
+
+Cisco also has a [team](https://www.cisco.com/c/m/en_us/about/csr/esg-hub.html) devoted exclusively to ethical business conduct and a [Code of Business Conduct](http://investor.cisco.com/investor-relations/governance/code-of-conduct/default.aspx) to help employees make business decisions and resolve any issues they may encounter.
+
+
+There’s no shortage of cybersecurity jobs. We are here to support you to find your dream role.
