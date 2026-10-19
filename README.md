@@ -40,7 +40,7 @@ The goal is to strengthen practical knowledge of cybersecurity, network defense,
 
 |---|---|---|
 
-| 01–07 | Security Foundations | ⬜ Not started |
+| 01–07 | Security Foundations |  In Progress  |
 
 | 08–14 | Network & Endpoint Defense | ⬜ Not started |
 
@@ -84,8 +84,6 @@ My notes are written in Markdown, organized for use with **Obsidian**, and versi
   
 
 The repository may include:
-
-  
 
 - Daily learning notes
 
