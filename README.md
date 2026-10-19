@@ -160,3 +160,6 @@ All scanning, testing, and exploitation activities are restricted to systems I o
 **Format:** Learn → Do → Log  
 
 **Status:** In progress
+
+
+This repository contains my personal learning notes based on Cisco Networking Academy resources and other referenced materials. All third-party content remains the property of its respective owners.
