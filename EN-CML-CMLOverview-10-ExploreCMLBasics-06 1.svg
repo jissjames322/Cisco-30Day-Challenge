@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1076.73 821.18">
+  <rect x="3" y="3" width="1070.73" height="815.18" rx="8" ry="8" style="fill: none; stroke: #66d7f3; stroke-dasharray: 0 0 0 14.97; stroke-linecap: round; stroke-linejoin: round; stroke-width: 6px;"/>
+  <rect x="124.64" y="43.64" width="197.58" height="129.71" rx="8" ry="8" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 2.49px;"/>
+  <rect x="361.08" y="43.64" width="197.58" height="129.71" rx="8" ry="8" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 2.49px;"/>
+  <rect x="597.53" y="43.64" width="197.58" height="129.71" rx="8" ry="8" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 2.49px;"/>
+  <rect x="124.8" y="200" width="902.17" height="119.47" rx="8" ry="8" style="fill: none; stroke: #0051af; stroke-miterlimit: 10; stroke-width: 2.88px;"/>
+  <rect x="833.98" y="43.64" width="197.58" height="129.71" rx="8" ry="8" style="fill: none; stroke: #000; stroke-miterlimit: 10; stroke-width: 2.49px;"/>
+  <text transform="translate(167.66 105.45)" style="font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">HTML 5</tspan><tspan x="38.34" y="32">UI</tspan></text>
+  <text transform="translate(420.29 105.45)" style="font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">Client </tspan><tspan x="-7.5" y="32">Library</tspan></text>
+  <text transform="translate(630.81 122.11)" style="font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">Tools/CLI</tspan></text>
+  <text transform="translate(512.1 271.2)" style="fill: #0051af; font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">REST API</tspan></text>
+  <rect x="124.8" y="342.35" width="902.17" height="119.47" rx="8" ry="8" style="fill: none; stroke: #0051af; stroke-miterlimit: 10; stroke-width: 2.88px;"/>
+  <rect x="330.77" y="572.8" width="496.08" height="63.27" rx="8" ry="8" style="fill: none; stroke: #74bf4b; stroke-dasharray: 0 0 0 14.93; stroke-linecap: round; stroke-linejoin: round; stroke-width: 6px;"/>
+  <text transform="translate(515.43 416.65)" style="fill: #0051af; font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">Controller</tspan></text>
+  <rect x="300.14" y="548.65" width="551.49" height="241.55" rx="8" ry="8" style="fill: none; stroke: #0051af; stroke-miterlimit: 10; stroke-width: 3.2px;"/>
+  <text transform="translate(519.59 773.02)" style="fill: #0051af; font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">Compute</tspan></text>
+  <text transform="translate(540.46 614.84)" style="fill: #74bf4b; font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">Driver</tspan></text>
+  <rect x="330.77" y="659.27" width="496.08" height="63.27" rx="8" ry="8" style="fill: none; stroke: #74bf4b; stroke-dasharray: 0 0 0 14.93; stroke-linecap: round; stroke-linejoin: round; stroke-width: 6px;"/>
+  <text transform="translate(508.77 701.31)" style="fill: #74bf4b; font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">Hypervisor</tspan></text>
+  <text transform="translate(879.68 105.45)" style="font-family: ArialMT, Arial; font-size: 30px;"><tspan x="0" y="0">Custom </tspan><tspan x="17.49" y="32">Apps</tspan></text>
+  <text transform="translate(57.87 441.13) rotate(-90)" style="fill: #00bceb; font-family: ArialMT, Arial; font-size: 36px;"><tspan x="0" y="0">CML</tspan></text>
+  <g>
+    <line x1="587.45" y1="484.58" x2="587.45" y2="525.33" style="fill: none; stroke: #a0a1a1; stroke-miterlimit: 10; stroke-width: 6px;"/>
+    <polygon points="574.29 488.43 587.45 465.64 600.62 488.43 574.29 488.43" style="fill: #a0a1a1; stroke-width: 0px;"/>
+    <polygon points="574.29 521.48 587.45 544.27 600.62 521.48 574.29 521.48" style="fill: #a0a1a1; stroke-width: 0px;"/>
+  </g>
+</svg>
